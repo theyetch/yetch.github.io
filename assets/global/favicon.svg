@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="25.807749"
+     inkscape:cx="17.940348"
+     inkscape:cy="15.479847"
+     inkscape:window-width="1440"
+     inkscape:window-height="872"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.69608;paint-order:markers fill stroke"
+       id="path283"
+       cx="5"
+       cy="5"
+       r="4.240201" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.66207px;line-height:1;font-family:Copperplate;-inkscape-font-specification:Copperplate;text-align:center;text-orientation:upright;text-anchor:middle;fill:#40bdff;fill-opacity:1;stroke:none;stroke-width:1.35745;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="4.9719405"
+       y="7.910737"
+       id="text2673"><tspan
+         sodipodi:role="line"
+         id="tspan2671"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.66207px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#40bdff;fill-opacity:1;stroke-width:1.35745"
+         x="4.9719405"
+         y="7.910737">Y</tspan></text>
+  </g>
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#40bdff;stroke-width:0.951454;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="path1775"
+     cx="5"
+     cy="5"
+     r="4.5242729" />
+</svg>
