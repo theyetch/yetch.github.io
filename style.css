@@ -48,3 +48,19 @@ body {
     text-align: center;
     margin: 10%;
   }
+
+a:link {
+    color:#40bdff;
+}
+
+a:visited {
+  color:#40bdff;
+}
+
+a:hover {
+  color:#40bdff;
+}
+
+a:active {
+    color:#40bdff;
+}
