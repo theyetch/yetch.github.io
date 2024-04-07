@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="style.css">
+    
+    <title>New York City</title>
+    <link rel="shortcut icon" type="image/png" href="assets/global/favicon.png">
+ 
+  </head>
+
+  <body>
+    
+    <!--header-->
+    <h1>New York City</h1>
+
+    <h2>✦ Good metro cumming soon ✦</h2>
+    <p>We in New York!!! This page is still under construction. I'm currently filming for a vlog, and editing is going to take a while, but I'll add that when it's all finished.</p>
+
+    <h2>The Playlist</h2>
+    <ul>
+      <li>Duke Ellington - Take the "A" Train: as soon as we left the airport, we took the train in question to where we stayed.</li>
+      <li>Michael Rodriguez - Pathways: the night of our arrival, we went to Small's jazz club with our hosts to see an hour-long set by the Michael Rodriguez quintet.</li>
+    </ul>
+
+    <!--footer-->
+    <p class="footer">(Discord: @theyetch)
+    </p>
+    
+  </body>
+
+</html>
